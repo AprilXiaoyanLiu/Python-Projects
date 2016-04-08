@@ -1,4 +1,5 @@
 # Python-Projects-
-Purpose: Parse out string from url and add additional two columns showing the strings we need
+I am a beginner of Python language. 
 
-Steps: Leverage Pandas module to read and edit csv file 
+This projects contains my random exercises with pandas module using Python
+
