@@ -1,0 +1,35 @@
+# read csv data
+import pandas as pd
+from pandas import DataFrame
+data = read_csv('test_vrefid.csv')
+data 
+
+# read the columns that need be parsed out
+orignal_url = data['orignal url']
+new_url = data['new url']
+orignal_url
+new_url
+
+# create list for new column 1
+original_vrefid = []
+for row in orignal_url:
+    position = row.find('&vrefid')
+    o_vrefid = row[position+8:position+16]
+    original_vrefid.append(o_vrefid)
+print original_vrefid
+
+# create list for new column 2
+new_vrefid = []
+for row in new_url:
+    position = row.find('&vrefid')
+    n_vrefid = row[position+8:position+16]
+    new_vrefid.append(n_vrefid)
+print new_vrefid
+
+# add name for two new columns
+data['original_vrefid'] = original_vrefid
+data['new_vrefid'] = new_vrefid
+
+# export new csv 
+data.to_csv('update_vrefid_test.csv', index=False)
+data
