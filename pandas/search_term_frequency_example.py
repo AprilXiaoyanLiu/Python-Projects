@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-
+command spyder
 This is a temporary script file.
 """
 
