@@ -10,7 +10,7 @@ from sqlalchemy import create_engine
 
 
 # Create Connection Engines to Stingray and Redshift 
-engine_RS = create_engine('postgresql://tableau.bot:tableau.bot.Redshift75@10.0.7.23:5439/rmus_prod') 
+engine_RS = create_engine('postgresql://username:pwd@10.0.7.23:5439/rmus_prod') 
 Listing_Info_Query = ''' select 
 UPPER(city), 
 state_code, 
