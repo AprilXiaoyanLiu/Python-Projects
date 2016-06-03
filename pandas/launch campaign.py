@@ -47,3 +47,15 @@ city_name_list
 from shapely.geometry import Point, Polygon
 pt = Point(0.75, 0.25)
 poly = Polygon([(0,0),(1,1),(1,0)])
+
+
+
+# write to excel 
+
+writer = pd.ExcelWriter(r'c:\file.xlsx', engine = 'xlsxwriter')
+workbook - writer.book
+df.to_excel(writer, index=True, sheet_name ='Sheet1')
+
+startrow : upper left cell row to dump data frame
+
+startcol : upper left cell column to dump data frame
