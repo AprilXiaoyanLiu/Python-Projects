@@ -135,7 +135,7 @@ for i in range(len(listing_info_list)):
         if x in listing_info_list[i]:
             city_name.setdefault(x.lower(),[]).append(listing_info_lst[i])
             
-df2['City'] = df2[u'word'].map(city_name) # create something like vlookup using python
+df2['City'] = df2[u'word'].map(city_name) # create something like vlookup with dictionary using python 
 
 df2.to_csv('/Users/april.liu/Documents/Search Term Report/search_term_frequency_Little Rock_6.3.16.csv', index=False)
 
