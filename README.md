@@ -1,5 +1,5 @@
-# Python 
-I am a beginner of Python language. 
+# Python Pandas
+
 
 This projects contains my random exercises with pandas module using Python
 
