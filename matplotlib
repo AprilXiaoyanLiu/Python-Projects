@@ -1,0 +1,4 @@
+plt.hist(touchpoints_dataframe['counts'])
+plt.title("Touchpoints Frequency")
+plt.xlabel("counts")
+plt.ylabel("frequency")
