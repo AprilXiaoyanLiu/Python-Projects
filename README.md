@@ -13,3 +13,6 @@ http://stackoverflow.com/questions/27917760/removing-first-line-of-big-csv-file-
 What's the difference between None and nan?
 http://stackoverflow.com/questions/17534106/what-is-the-difference-between-nan-and-none
 http://pandas-docs.github.io/pandas-docs-travis/
+
+Edit values for subset of rows
+http://stackoverflow.com/questions/13842088/set-value-for-particular-cell-in-pandas-dataframe
