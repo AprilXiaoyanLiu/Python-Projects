@@ -16,3 +16,6 @@ http://pandas-docs.github.io/pandas-docs-travis/
 
 Edit values for subset of rows
 http://stackoverflow.com/questions/13842088/set-value-for-particular-cell-in-pandas-dataframe
+
+errors 'UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)' when saving to excel pandas
+http://stackoverflow.com/questions/33940319/issue-saving-data-in-excel
