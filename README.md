@@ -28,3 +28,6 @@ http://stackoverflow.com/questions/1549641/how-to-capitalize-the-first-letter-of
 
 
 http://stackoverflow.com/questions/21702342/creating-a-new-column-based-on-if-elif-else-condition
+
+next() list iterator
+http://stackoverflow.com/questions/16814984/python-list-iterator-behavior-and-nextiterator
