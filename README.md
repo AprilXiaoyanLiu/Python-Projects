@@ -19,3 +19,6 @@ http://stackoverflow.com/questions/13842088/set-value-for-particular-cell-in-pan
 
 errors 'UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)' when saving to excel pandas
 http://stackoverflow.com/questions/33940319/issue-saving-data-in-excel
+
+How to merge two lists into a list of tuple?
+http://stackoverflow.com/questions/2407398/python-merge-items-of-two-lists-into-a-list-of-tuples
