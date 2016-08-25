@@ -25,3 +25,6 @@ http://stackoverflow.com/questions/2407398/python-merge-items-of-two-lists-into-
 
 How to capitalize the first letter of each word in a string (Python)?
 http://stackoverflow.com/questions/1549641/how-to-capitalize-the-first-letter-of-each-word-in-a-string-python
+
+
+http://stackoverflow.com/questions/21702342/creating-a-new-column-based-on-if-elif-else-condition
