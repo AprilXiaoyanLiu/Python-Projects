@@ -31,3 +31,7 @@ http://stackoverflow.com/questions/21702342/creating-a-new-column-based-on-if-el
 
 next() list iterator
 http://stackoverflow.com/questions/16814984/python-list-iterator-behavior-and-nextiterator
+
+http://stackoverflow.com/questions/19384532/how-to-count-number-of-rows-in-a-group-in-pandas-group-by-object
+
+http://stackoverflow.com/questions/26336251/pandas-rename-single-dataframe-column-without-knowing-column-name
