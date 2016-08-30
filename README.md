@@ -36,6 +36,7 @@ http://stackoverflow.com/questions/19384532/how-to-count-number-of-rows-in-a-gro
 
 http://stackoverflow.com/questions/26336251/pandas-rename-single-dataframe-column-without-knowing-column-name
 
-how to add datetime to the filename
+how to add datetime to the filename:
+
 from datetime import datetime
 filename = '/path/to/output/myfile-%s.txt'%datetime.now().strftime('%Y-%m-%d')
