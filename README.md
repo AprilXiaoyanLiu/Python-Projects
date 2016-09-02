@@ -41,3 +41,5 @@ how to add datetime to the filename:
 from datetime import datetime
 
 filename = '/path/to/output/myfile-%s.txt'%datetime.now().strftime('%Y-%m-%d')
+
+http://stackoverflow.com/questions/23377108/pandas-percentage-of-total-with-groupby
