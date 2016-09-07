@@ -43,3 +43,5 @@ from datetime import datetime
 filename = '/path/to/output/myfile-%s.txt'%datetime.now().strftime('%Y-%m-%d')
 
 http://stackoverflow.com/questions/23377108/pandas-percentage-of-total-with-groupby
+
+http://stackoverflow.com/questions/15705630/python-getting-the-row-which-has-the-max-value-in-groups-using-groupby
