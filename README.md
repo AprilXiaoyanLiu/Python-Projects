@@ -45,3 +45,7 @@ filename = '/path/to/output/myfile-%s.txt'%datetime.now().strftime('%Y-%m-%d')
 http://stackoverflow.com/questions/23377108/pandas-percentage-of-total-with-groupby
 
 http://stackoverflow.com/questions/15705630/python-getting-the-row-which-has-the-max-value-in-groups-using-groupby
+
+How to get time of a python program execution
+
+http://stackoverflow.com/questions/1557571/how-to-get-time-of-a-python-program-execution
