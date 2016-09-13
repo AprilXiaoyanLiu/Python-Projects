@@ -52,3 +52,8 @@ http://stackoverflow.com/questions/15705630/python-getting-the-row-which-has-the
 How to get time of a python program execution
 
 http://stackoverflow.com/questions/1557571/how-to-get-time-of-a-python-program-execution
+
+
+http://stackoverflow.com/questions/10017147/removing-a-list-of-characters-in-string
+
+http://stackoverflow.com/questions/6116978/python-replace-multiple-strings
