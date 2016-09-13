@@ -24,6 +24,9 @@ How to merge two lists into a list of tuple?
 http://stackoverflow.com/questions/2407398/python-merge-items-of-two-lists-into-a-list-of-tuples
 
 How to capitalize the first letter of each word in a string (Python)?
+
+
+http://stackoverflow.com/questions/10017147/removing-a-list-of-characters-in-string
 http://stackoverflow.com/questions/1549641/how-to-capitalize-the-first-letter-of-each-word-in-a-string-python
 
 
