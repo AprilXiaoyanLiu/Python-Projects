@@ -58,7 +58,7 @@ http://stackoverflow.com/questions/10017147/removing-a-list-of-characters-in-str
 
 http://stackoverflow.com/questions/6116978/python-replace-multiple-strings
 
-
+#Web Scraping
 http://www.diveintopython.net/http_web_services/redirects.html
 
 
