@@ -61,4 +61,6 @@ http://stackoverflow.com/questions/6116978/python-replace-multiple-strings
 #Web Scraping
 http://www.diveintopython.net/http_web_services/redirects.html
 
+http://stackoverflow.com/questions/1080411/retrieve-links-from-web-page-using-python-and-beautifulsoup
+
 
