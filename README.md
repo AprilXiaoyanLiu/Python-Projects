@@ -57,3 +57,8 @@ http://stackoverflow.com/questions/1557571/how-to-get-time-of-a-python-program-e
 http://stackoverflow.com/questions/10017147/removing-a-list-of-characters-in-string
 
 http://stackoverflow.com/questions/6116978/python-replace-multiple-strings
+
+
+http://www.diveintopython.net/http_web_services/redirects.html
+
+
