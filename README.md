@@ -60,6 +60,8 @@ http://stackoverflow.com/questions/6116978/python-replace-multiple-strings
 
 http://stackoverflow.com/questions/17134716/convert-dataframe-column-type-from-string-to-datetime
 
+http://stackoverflow.com/questions/17749484/python-script-to-concatenate-all-the-files-in-the-directory-into-one-file
+
 #Web Scraping
 http://www.diveintopython.net/http_web_services/redirects.html
 
