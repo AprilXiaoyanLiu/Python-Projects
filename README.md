@@ -62,6 +62,7 @@ http://stackoverflow.com/questions/17134716/convert-dataframe-column-type-from-s
 
 http://stackoverflow.com/questions/17749484/python-script-to-concatenate-all-the-files-in-the-directory-into-one-file
 
+http://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
 #Web Scraping
 http://www.diveintopython.net/http_web_services/redirects.html
 
