@@ -49,6 +49,10 @@ http://stackoverflow.com/questions/23377108/pandas-percentage-of-total-with-grou
 
 http://stackoverflow.com/questions/15705630/python-getting-the-row-which-has-the-max-value-in-groups-using-groupby
 
+choose the top N within subgroups
+
+http://stackoverflow.com/questions/20069009/pandas-good-approach-to-get-top-n-records-within-each-group
+
 How to get time of a python program execution
 
 http://stackoverflow.com/questions/1557571/how-to-get-time-of-a-python-program-execution
