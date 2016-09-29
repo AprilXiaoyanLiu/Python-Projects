@@ -51,7 +51,9 @@ http://stackoverflow.com/questions/15705630/python-getting-the-row-which-has-the
 
 choose the top N within subgroups
 
-http://stackoverflow.com/questions/20069009/pandas-good-approach-to-get-top-n-records-within-each-group
+http://stackoverflow.com/questions/20069009/pandas-good-approach-to-get-top-n-records-within-each-grouphttp://stackoverflow.com/questions/17465045/can-pandas-automatically-recognize-dates
+
+http://stackoverflow.com/questions/17465045/can-pandas-automatically-recognize-dates
 
 How to get time of a python program execution
 
