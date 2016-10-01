@@ -55,6 +55,10 @@ choose the top N within subgroups
 
 http://stackoverflow.com/questions/20069009/pandas-good-approach-to-get-top-n-records-within-each-grouphttp://stackoverflow.com/questions/17465045/can-pandas-automatically-recognize-dates
 
+choose top n rows within each subgroup - redshift
+
+http://stackoverflow.com/questions/1124603/grouped-limit-in-postgresql-show-the-first-n-rows-for-each-group
+
 http://stackoverflow.com/questions/17465045/can-pandas-automatically-recognize-dates
 
 How to get time of a python program execution
