@@ -75,6 +75,17 @@ http://stackoverflow.com/questions/17134716/convert-dataframe-column-type-from-s
 http://stackoverflow.com/questions/17749484/python-script-to-concatenate-all-the-files-in-the-directory-into-one-file
 
 http://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
+
+how to randomly choose data
+
+import random
+
+unique_users = test.user_id.unique()
+
+sel_user_ids = [unique_users[i] for i in sorted(random.sample(range(len(unique_users)), 10000)) ]
+sel_test = test[test.user_id.isin(sel_user_ids)]
+
+
 #Web Scraping
 http://www.diveintopython.net/http_web_services/redirects.html
 
