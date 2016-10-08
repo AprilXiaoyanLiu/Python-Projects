@@ -76,6 +76,8 @@ http://stackoverflow.com/questions/17749484/python-script-to-concatenate-all-the
 
 http://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
 
+http://stackoverflow.com/questions/16353729/pandas-how-to-use-apply-function-to-multiple-columns
+
 how to randomly choose data
 
 import random
