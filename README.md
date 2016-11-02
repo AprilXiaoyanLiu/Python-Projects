@@ -78,6 +78,10 @@ http://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-panda
 
 http://stackoverflow.com/questions/16353729/pandas-how-to-use-apply-function-to-multiple-columns
 
+how to select rows contains null value
+df[df.isnull()]
+
+
 how to randomly choose data
 
 import random
