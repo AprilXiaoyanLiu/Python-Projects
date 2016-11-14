@@ -61,6 +61,8 @@ http://stackoverflow.com/questions/1124603/grouped-limit-in-postgresql-show-the-
 
 http://stackoverflow.com/questions/17465045/can-pandas-automatically-recognize-dates
 
+http://stackoverflow.com/questions/19966018/pandas-filling-missing-values-by-mean-in-each-group
+
 How to get time of a python program execution
 
 http://stackoverflow.com/questions/1557571/how-to-get-time-of-a-python-program-execution
