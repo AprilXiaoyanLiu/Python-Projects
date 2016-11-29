@@ -83,7 +83,28 @@ http://stackoverflow.com/questions/16353729/pandas-how-to-use-apply-function-to-
 how to select rows contains null value
 df[df.isnull()]
 
+-----------------------
+Encoding/Decoding
+Error: Error tokenizing data. C error: EOF following escape character
 
+how to solve this problem：
+
+first try to locate the problem:
+with open(path) as myfile:
+    head = [next(myfile) for x in xrange(4)]
+print head
+
+then find many escape characters
+
+df = pd.read_csv(path, header = 0, encoding = 'utf-16', sep='\t')
+
+encoding = 'utf-16' combine all together, and separate the tab using sep = '\t'
+
+
+
+
+
+------------------------------
 how to randomly choose data
 
 import random
