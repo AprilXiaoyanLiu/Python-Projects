@@ -16,7 +16,7 @@ import numpy as np
 
 
 # Create Connection Engines to Stingray and Redshift 
-engine_RS = create_engine('postgresql://april.liu:VVUamGKs71@10.0.7.23:5439/rmus_prod') 
+engine_RS = create_engine('postgresql://accountname:password@10.0.7.23:5439/rmus_prod') 
 
 #
 Counts_Query = '''select login_id, count(*) as counts from
